@@ -8,5 +8,6 @@ This Python code is a simple text-based slot machine game called "Fruit Frenzy" 
 - Simulated slot machine spins with random results.
 - Calculates and displays winnings for each spin.
 
-Feel the excitement of Little Slots of Fun Casino right from your terminal! Play and see if you can strike it rich with "Fruit Frenzy." Enjoy the game!
+Feel the excitement of Little Slots of Fun Casino right from your terminal! Play and see if you can strike it rich with "Fruit Frenzy".
+Enjoy the game!
 
